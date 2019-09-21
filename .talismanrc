@@ -1,0 +1,9 @@
+fileignoreconfig:
+- filename: danger.pem
+  checksum: b4a00883406449dd0aa55bbfe6362afc1227f4f444427d019c91ca4ff90590d7
+  ignore_detectors: []
+fileignoreconfig:
+- filename: mysite/settings.py
+  checksum: 33264e9cabbb1c9f24cd85b5af4c04e9cdd5dde52404704c2735477c535b28c1
+  ignore_detectors: []
+
